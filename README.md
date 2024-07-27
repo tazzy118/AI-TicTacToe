@@ -1,7 +1,7 @@
 <h1>AI-TicTacToe ❌⭕</h1>
 
 <h2>Description</h2>
-In my first year of university, I created the social networking software Virality. I primarily used C#, MySQL, and php. Even though it wasn't flawless, I had a lot of fun making it because it was something new for me and I wanted to push myself. The most enjoyable thing I've done is add an OTP system, which was both cool and really difficult. I did manage to complete it, though, and it made me feel really accomplished. Both the admin and user sides are available. The PDF contains a full description of my software methodology process.
+The purpose of this assignment is to evaluate my grasp of AI algorithms and machine learning models in the real world as they relate to creating an expert system. I created an AI-based Tic-Tac-Toe game that can handle challenging tasks specifically for this purpose. To show the game's proficiency when combined with my models, the system has a performance evaluation component. This assessment serves as a concrete yardstick for gauging the AI system's performance in real-world situations. The expert system perceives the gaming environment, makes sophisticated analyses of it, and then reacts with well-considered movements in accordance with a Think-Act Cycle. The game is made to work properly in a variety of situations, demonstrating its adaptability to a range of difficulties🌝
 <br/>
 
 
